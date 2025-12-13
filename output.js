@@ -1,7 +1,6 @@
-//Sat Dec 13 2025 15:52:02 GMT+0000 (Coordinated Universal Time)
+//Sat Dec 13 2025 15:53:17 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
-解密这个文件;
 var _0x9dee3a = 12;
 const kskm = process.env.kskm;
 _0x9dee3a = "ddpocb".split("").reverse().join("");
