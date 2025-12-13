@@ -1,4 +1,4 @@
-解密这个文件// ksck   ck#salt#代理
+// ksck   ck#salt#代理
 //Task food,box,look
 //代理格式 socks5://username:password@host:port
 //代理推荐http://www.tianxingip.com/proxy/index/index/code/smallfawn.html
